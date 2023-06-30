@@ -2,7 +2,7 @@
 
 
 🔭### About me
-I'm a administrator of a e-commerce company and i'm studying WEB and Mobile development at [Rocketseat].(https://rocketseat.com.br/). 
+-I'm a administrator of a e-commerce company and i'm studying WEB and Mobile development at [Rocketseat].(https://rocketseat.com.br/). 
 Also, i'm studying analysis and systems development in a college named Estácio.
 
 🌱### Currently learning 
